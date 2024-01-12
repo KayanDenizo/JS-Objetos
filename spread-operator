@@ -1,0 +1,6 @@
+O operador copia as propriedades de objetos para outros, "espalhando" os conteúdos.
+
+IMPORTANTE:
+Se a sintaxe de espalhando (spread-operador) for usada em objetos que tenham chaves ou
+propriedades com o mesmo nome. O JavaScript vai sobrescrever o valor destas propriedades,
+à medida que encontra novos valores com o mesmo nome de chave.
